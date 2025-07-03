@@ -1,6 +1,6 @@
 # Subspace method based on neural networks (SNN) 
 
-Codes associated with the manuscript titled "Subspace method based on neural networks for solving the partial differential equation" authored by Zhaodong Xu and Zhiqiang Sheng. This repository provides a **modular and user-friendly** implementation, developed with **PyTorch 2.0.0**, and designed for ease of use and modification. We've structured the code with clearly defined modules and exposed **well-documented parameters**, allowing users to easily adjust settings and extend functionality. In this version, we provide an example for solving the one-dimensional Helmholtz equation; more examples will be provided in future versions.
+Codes associated with the manuscript titled "Subspace method based on neural networks for solving the partial differential equation" authored by Zhaodong Xu and Zhiqiang Sheng. This repository provides a **modular and user-friendly** implementation, developed with **PyTorch 2.0.0**, and designed for ease of use and modification. In this version, we provide an example for solving the one-dimensional Helmholtz equation; more examples will be provided in future versions.
 
 ---
 
